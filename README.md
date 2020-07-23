@@ -1,16 +1,22 @@
-### Hi There, My name is Jaspreet Singh. Thank you for visiting!👋
+### Hi, I am Jaspreet!👋
 
-<!--
-**puneetoberoi/puneetoberoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### I am a junior software engineer and just started my journey on this beautiful world.
 
 - 🔭 I’m currently working on Spring Boot by making a simple project.
 - 🌱 I’m currently learning Core Java, hands-on Data Structures.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with 
+- 🤔 I’m looking for help with interviews to get myself started.
 - 💬 Ask me about my journey so far and how I learned java by creating a search-engine from scratch.
 - 📫 How to reach me: jaspreet.singh@dal.ca
-- 😄 Pronouns: Puneet
 - ⚡ Fun fact: Always smiling.
+
+🏡 [website][website] **|** 
+
+
+[website]: https://puneetoberoi.github.io/jaspreet-profile/
+
+<!-- 
+👔 [linkedin][linkedin]
+[linkedin]: https://linkedin.com/in/bradgarropy
+- 😄 Pronouns: Puneet
+- 👯 I’m looking to collaborate on ...
 -->
