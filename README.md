@@ -2,7 +2,6 @@
 
 ### I am a junior software engineer and just started my journey on this beautiful world.
 
-- 🔭 I’m currently working on Spring Boot by making a simple project.
 - 🌱 I’m currently learning Core Java, hands-on Data Structures.
 - 🤔 I’m looking for help with interviews to get myself started.
 - 💬 Ask me about my journey so far and how I learned java by creating a search-engine from scratch.
