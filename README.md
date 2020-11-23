@@ -1,6 +1,6 @@
 ### Hi, I am Jaspreet!👋
 
-### I am a junior software engineer and just started my journey on this beautiful world.
+### I am a junior software engineer/tester and just started my journey on this beautiful world.
 
 - 🌱 I’m currently learning Core Java, hands-on Data Structures.
 - 🤔 I’m looking for help with interviews to get myself started.
